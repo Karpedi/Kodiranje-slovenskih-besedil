@@ -1,0 +1,50 @@
+
+Ta datoteka je zapisana kot niz osem-bitnih kodnih zamenjav
+po kodni tabeli Windows-1250 (CP-1250). 
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na zaüetku najprej
+veliko in nato Áe malo ürko za Áumnik, ki je zapisan s ürko 'c'
+in dodatno kljukico  (angl. "caron") nad samo ürko:
+
+    ¨esen smrdi.
+    Ne maram üesna.
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na zaüetku najprej
+veliko in nato Áe malo ürko za Áumnik, ki je zapisan s ürko 's'
+in dodatno kljukico 
+nad samo ürko:
+
+    Êola je velika.
+    Nisem bil v Áoli.
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na zaüetku najprej
+veliko in nato Áe malo ürko za Áumnik, ki je zapisan s ürko 'z'
+in dodatno kljukico nad samo ürko:
+
+    ¶ezlo je v kraljevih rokah.
+    Kralju je padlo ßezlo iz rok.
+
+-----
+
+¨e datoteko prebirate z medmreßnim brskalnikom Firefox in
+üe ßelite pravilen prikaz Áumnikov v besedilu, morate vkljuüiti
+opcijo "View - Character Encoding - Central European (Windows-1250)"
+
+Na koncu so podane Áe osem-bitne kodne zamenjave naÁih Áumnikov,
+ki so del mednarodne kodne tabele Windows-1250 (CP-1250):
+
+	  0xE8  LATIN SMALL LETTER C WITH CARON
+	  0x9A	LATIN SMALL LETTER S WITH CARON
+	  0x9E  LATIN SMALL LETTER Z WITH CARON
+
+	  0xC8  LATIN CAPITAL LETTER C WITH CARON
+	  0x8A  LATIN CAPITAL LETTER S WITH CARON
+	  0x8E  LATIN CAPITAL LETTER Z WITH CARON
+
+
