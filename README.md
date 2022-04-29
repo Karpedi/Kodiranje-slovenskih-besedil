@@ -4,7 +4,7 @@ I. Program izpiše šumnike slovenske abecede v različnih kodih:<br>
 
 ***Izpis je v zapisu DEC, HEX in BIN***
 <br>
-Program pa ima možnost pretvorbe med različnimi kodi.
+Program pa ima možnost pretvorbe med različnimi kodi. Določimo tip vhodne datoteke in želeni izhodni tip. 
 
 
 
