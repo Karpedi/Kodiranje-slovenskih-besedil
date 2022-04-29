@@ -1,0 +1,50 @@
+
+Ta datoteka je zapisana kot niz osem-bitnih kodnih zamenjav 
+po kodni tabeli ISO-8859-2 (Latin-2). 
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na zaèetku najprej
+veliko in nato ¹e malo èrko za ¹umnik, ki je zapisan s èrko 'c'
+in dodatno kljukico  (angl. "caron") nad samo èrko:
+
+    Èesen smrdi.
+    Ne maram èesna.
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na zaèetku najprej
+veliko in nato ¹e malo èrko za ¹umnik, ki je zapisan s èrko 's'
+in dodatno kljukico 
+nad samo èrko:
+
+    ©ola je velika.
+    Nisem bil v ¹oli.
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na zaèetku najprej
+veliko in nato ¹e malo èrko za ¹umnik, ki je zapisan s èrko 'z'
+in dodatno kljukico  nad samo èrko:
+
+    ®ezlo je v kraljevih rokah.
+    Kralju je padlo ¾ezlo iz rok.
+
+-----
+
+Èe datoteko prebirate z medmre¾nim brskalnikom Firefox in
+èe ¾elite pravilen prikaz ¹umnikov v besedilu, morate vkljuèiti
+opcijo "View - Character Encoding - Central European (ISO-8859-2)"
+
+Na koncu so podane ¹e osem-bitne kodne zamenjave (okteti) na¹ih ¹umnikov,
+ki so del mednarodne kodne tabele ISO-8859-2 (Latin-2):
+
+	  0xE8  LATIN SMALL LETTER C WITH CARON
+	  0xB9  LATIN SMALL LETTER S WITH CARON
+	  0xBE  LATIN SMALL LETTER Z WITH CARON
+
+	  0xC8  LATIN CAPITAL LETTER C WITH CARON
+	  0xA9  LATIN CAPITAL LETTER S WITH CARON
+	  0xAE  LATIN CAPITAL LETTER Z WITH CARON
+
+

@@ -1,0 +1,50 @@
+
+Ta datoteka je zapisana kot niz osem-bitnih kodnih zamenjav
+po kodni tabeli Windows-1250 (CP-1250). 
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na zaèetku najprej
+veliko in nato še malo èrko za šumnik, ki je zapisan s èrko 'c'
+in dodatno kljukico  (angl. "caron") nad samo èrko:
+
+    Èesen smrdi.
+    Ne maram èesna.
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na zaèetku najprej
+veliko in nato še malo èrko za šumnik, ki je zapisan s èrko 's'
+in dodatno kljukico 
+nad samo èrko:
+
+    Šola je velika.
+    Nisem bil v šoli.
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na zaèetku najprej
+veliko in nato še malo èrko za šumnik, ki je zapisan s èrko 'z'
+in dodatno kljukico nad samo èrko:
+
+    Žezlo je v kraljevih rokah.
+    Kralju je padlo žezlo iz rok.
+
+-----
+
+Èe datoteko prebirate z medmrežnim brskalnikom Firefox in
+èe želite pravilen prikaz šumnikov v besedilu, morate vkljuèiti
+opcijo "View - Character Encoding - Central European (Windows-1250)"
+
+Na koncu so podane še osem-bitne kodne zamenjave naših šumnikov,
+ki so del mednarodne kodne tabele Windows-1250 (CP-1250):
+
+	  0xE8  LATIN SMALL LETTER C WITH CARON
+	  0x9A	LATIN SMALL LETTER S WITH CARON
+	  0x9E  LATIN SMALL LETTER Z WITH CARON
+
+	  0xC8  LATIN CAPITAL LETTER C WITH CARON
+	  0x8A  LATIN CAPITAL LETTER S WITH CARON
+	  0x8E  LATIN CAPITAL LETTER Z WITH CARON
+
+

@@ -1,0 +1,59 @@
+
+Ta datoteka je zapisana kot mešani niz osem- ali šestnajst-bitnih
+kodnih zamenjav po kodni tabeli UTF-8. Kodne zamenjave naših šumnikov 
+so šestnajst-bitne, kodne zamenjave preostalih črk, ki so enake kot v
+angleščini, pa so osem-bitne (http://en.wikipedia.org/wiki/UTF-8).
+
+Osem-bitne zamenjave imajo prvi (najvišji) bit vedno enak 0. Če je ta 
+bit enak 1, to pomeni, da je gre le za prvih (višjih) osem bitov 
+šestnajst-bitne kodne zamenjave, ki jo sestavimo z dodajanjem naslednjega
+okteta (osmih bitov).
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na začetku najprej
+veliko in nato še malo črko za šumnik, ki je zapisan s črko 'c'
+in dodatno kljukico  (angl. "caron") nad samo črko:
+
+    Česen smrdi.
+    Ne maram česna.
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na začetku najprej
+veliko in nato še malo črko za šumnik, ki je zapisan s črko 's'
+in dodatno kljukico 
+nad samo črko:
+
+    Šola je velika.
+    Nisem bil v šoli.
+
+-----
+
+V naslednjih dveh stavkih sta besedi, ki imata na začetku najprej
+veliko in nato še malo črko za šumnik, ki je zapisan s črko 'z'
+in dodatno kljukico  nad samo črko:
+
+    Žezlo je v kraljevih rokah.
+    Kralju je padlo žezlo iz rok.
+
+-----
+
+
+Če datoteko prebirate z medmrežnim brskalnikom Firefox in
+če želite pravilen prikaz šumnikov v besedilu, morate vključiti
+opcijo "View - Character Encoding - Unicode (UTF-8)"
+
+
+Na koncu so podane še šestnajst-bitne kodne zamenjave naših šumnikov,
+ki so del mednarodne kodne tabele Unicode (UTF-8):
+
+	  0x8DC4  LATIN SMALL LETTER C WITH CARON
+	  0xA1C5  LATIN SMALL LETTER S WITH CARON
+	  0xBEC5  LATIN SMALL LETTER Z WITH CARON
+
+	  0x8CC4  LATIN CAPITAL LETTER C WITH CARON
+	  0xA0C5  LATIN CAPITAL LETTER S WITH CARON
+	  0xBDC5  LATIN CAPITAL LETTER Z WITH CARON
+
+
